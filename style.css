@@ -15,21 +15,22 @@ gavi = 12 - STATS - Baby Keem
 
 /* Don't Touch */
 body {
-  background-color: rgb(255,230,230);
+  background-color: rgb(255, 230, 230);
   background-size: cover;
   height: 100vh;
   overflow: hidden;
 }
+
 /* Don't Touch */
 
 /* Circles */
 #favi {
-  border: rgb(22,22,22) solid 5px;
+  border: rgb(22, 22, 22) solid 5px;
   border-radius: 1vmax;
   position: absolute;
   transition: transform 800ms ease;
   overflow: hidden;
-  background-color: rgb(26,77,80);
+  background-color: rgb(26, 77, 80);
   background-image: url("none");
   background-position: 50% 50%;
   background-size: cover;
@@ -39,6 +40,7 @@ body {
   top: 5%;
   transition: scale 500ms, background-color 2s;
 }
+
 #favi .name {
   font-size: 30px;
   position: absolute;
@@ -47,6 +49,7 @@ body {
   color: orange;
   transition: color 2s;
 }
+
 #favi img {
   height: 100%;
   width: 100%;
@@ -55,6 +58,7 @@ body {
   opacity: 0;
   transition: opacity 800ms ease, transform 800ms ease;
 }
+
 #favi .songTitle {
   color: black;
   font-size: 30px;
@@ -65,6 +69,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #favi .songArtist {
   color: black;
   font-size: 17px;
@@ -75,6 +80,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #favi:hover {
   background-color: rgb(25, 229, 230);
   height: 25%;
@@ -83,14 +89,17 @@ body {
   top: 5%;
   scale: 1.1;
 }
-#favi:hover > .name {
+
+#favi:hover>.name {
   color: black;
 }
-#favi:hover > img {
+
+#favi:hover>img {
   opacity: 1;
   transform: scale(1.01);
 }
-#favi:hover > .songTitle {
+
+#favi:hover>.songTitle {
   opacity: 100%;
   color: rgb(25, 160, 170);
   font-size: 30px;
@@ -98,7 +107,8 @@ body {
   left: 5%;
   top: 60%;
 }
-#favi:hover > .songArtist {
+
+#favi:hover>.songArtist {
   opacity: 100%;
   color: rgb(25, 160, 170);
   font-size: 17px;
@@ -106,11 +116,12 @@ body {
   left: 7%;
   top: 83%;
 }
+
 /* Circles */
 
 /* Me N My Kup */
 #ravi {
-  border: rgb(0,0,0) solid 5px;
+  border: rgb(0, 0, 0) solid 5px;
   border-radius: 1vmax;
   position: absolute;
   transition: transform 800ms ease;
@@ -125,6 +136,7 @@ body {
   top: 5%;
   transition: scale 500ms, background-color 2s;
 }
+
 #ravi .name {
   font-size: 30px;
   position: absolute;
@@ -133,6 +145,7 @@ body {
   color: orange;
   transition: color 2s;
 }
+
 #ravi img {
   height: 100%;
   width: 100%;
@@ -141,6 +154,7 @@ body {
   opacity: 0;
   transition: opacity 800ms ease, transform 800ms ease;
 }
+
 #ravi .songTitle {
   font-size: 30px;
   position: absolute;
@@ -150,6 +164,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #ravi .songArtist {
   font-size: 17px;
   font-weight: 800;
@@ -159,6 +174,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #ravi:hover {
   background-color: rgb(12, 4, 4);
   background-size: cover;
@@ -168,14 +184,17 @@ body {
   top: 5%;
   scale: 1.1;
 }
-#ravi:hover > .name {
+
+#ravi:hover>.name {
   color: black;
 }
-#ravi:hover > img {
+
+#ravi:hover>img {
   opacity: 1;
   scale: (1.01);
 }
-#ravi:hover > .songTitle {
+
+#ravi:hover>.songTitle {
   opacity: 100%;
   color: white;
   font-size: 30px;
@@ -183,7 +202,8 @@ body {
   left: 5%;
   top: 60%;
 }
-#ravi:hover > .songArtist {
+
+#ravi:hover>.songArtist {
   opacity: 100%;
   color: white;
   font-size: 17px;
@@ -191,6 +211,7 @@ body {
   left: 7%;
   top: 83%;
 }
+
 /* Me N My Kup */
 
 /* REROUT3  */
@@ -210,6 +231,7 @@ body {
   top: 37%;
   transition: scale 500ms, background-color 2s;
 }
+
 #tavi .name {
   font-size: 30px;
   position: absolute;
@@ -218,6 +240,7 @@ body {
   color: orange;
   transition: color 2s;
 }
+
 #tavi img {
   height: 100%;
   width: 100%;
@@ -226,6 +249,7 @@ body {
   opacity: 0;
   transition: opacity 800ms ease, transform 800ms ease;
 }
+
 #tavi .songTitle {
   font-size: 30px;
   position: absolute;
@@ -234,6 +258,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #tavi .songArtist {
   font-size: 28px;
   -webkit-text-stroke: 0.9px black;
@@ -245,6 +270,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #tavi:hover {
   background-size: cover;
   height: 25%;
@@ -253,14 +279,17 @@ body {
   top: 37%;
   scale: 1.1;
 }
-#tavi:hover > .name {
+
+#tavi:hover>.name {
   color: black;
 }
-#tavi:hover > img {
+
+#tavi:hover>img {
   opacity: 1;
   transform: opacity 2s, scale(1.01);
 }
-#tavi:hover > .songTitle {
+
+#tavi:hover>.songTitle {
   opacity: 100%;
   color: red;
   font-size: 30px;
@@ -268,7 +297,8 @@ body {
   left: 5%;
   top: 60%;
 }
-#tavi:hover > .songArtist {
+
+#tavi:hover>.songArtist {
   opacity: 100%;
   color: crimson;
   font-size: 28px;
@@ -276,6 +306,7 @@ body {
   left: 27%;
   top: 38%;
 }
+
 /* REROUT3 */
 
 /* Lotus */
@@ -295,6 +326,7 @@ body {
   top: 37%;
   transition: scale 500ms, background-color 2s;
 }
+
 #savi .name {
   font-size: 30px;
   position: absolute;
@@ -303,6 +335,7 @@ body {
   color: orange;
   transition: color 2s;
 }
+
 #savi img {
   height: 100%;
   width: 100%;
@@ -311,6 +344,7 @@ body {
   opacity: 0;
   transition: opacity 800ms ease, transform 800ms ease;
 }
+
 #savi .songTitle {
   font-size: 33px;
   font-weight: 800;
@@ -320,6 +354,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #savi .songArtist {
   font-size: 17px;
   font-weight: 800;
@@ -329,6 +364,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #savi:hover {
   background-color: rgba(12, 4, 4, 0.3);
   background-size: cover;
@@ -338,26 +374,31 @@ body {
   top: 37%;
   scale: 1.1;
 }
-#savi:hover > .name {
+
+#savi:hover>.name {
   color: black;
 }
-#savi:hover > img {
+
+#savi:hover>img {
   opacity: 1;
   transform: opacity 2s, scale(1.01);
 }
-#savi:hover > .songTitle {
+
+#savi:hover>.songTitle {
   opacity: 100%;
   color: cyan;
   position: absolute;
   left: 3%;
 }
-#savi:hover > .songArtist {
+
+#savi:hover>.songArtist {
   opacity: 100%;
   color: cyan;
   font-size: 17px;
   position: absolute;
   left: 3%;
 }
+
 /* Lotus */
 
 /* Flatbed */
@@ -377,6 +418,7 @@ body {
   top: 69%;
   transition: scale 500ms, background-color 2s;
 }
+
 #mavi .name {
   font-size: 30px;
   position: absolute;
@@ -385,6 +427,7 @@ body {
   color: orange;
   transition: color 2s;
 }
+
 #mavi img {
   height: 100%;
   width: 100%;
@@ -393,6 +436,7 @@ body {
   opacity: 0;
   transition: opacity 800ms ease, transform 800ms ease;
 }
+
 #mavi .songTitle {
   font-size: 30px;
   font-weight: 750;
@@ -401,8 +445,9 @@ body {
   left: -20%;
   top: 40%;
   opacity: 0%;
-  transition: opacity 1s, top 1s, left 1.5s,  color 3s;
+  transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #mavi .songArtist {
   font-size: 17px;
   -webkit-text-stroke: 0.3px white;
@@ -413,6 +458,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #mavi:hover {
   background-color: rgba(12, 4, 4, 0.3);
   background-size: cover;
@@ -422,27 +468,32 @@ body {
   top: 69%;
   scale: 1.1;
 }
-#mavi:hover > .name {
+
+#mavi:hover>.name {
   color: black;
 }
-#mavi:hover > img {
+
+#mavi:hover>img {
   opacity: 1;
   transform: opacity 2s, scale(1.01);
 }
-#mavi:hover > .songTitle {
+
+#mavi:hover>.songTitle {
   opacity: 100%;
-  color: rgb(76,127,102);
+  color: rgb(76, 127, 102);
   font-size: 30px;
   position: absolute;
   left: 5%;
 }
-#mavi:hover > .songArtist {
+
+#mavi:hover>.songArtist {
   opacity: 100%;
-  color: rgb(76,127,102);
+  color: rgb(76, 127, 102);
   font-size: 17px;
   position: absolute;
   left: 7%;
 }
+
 /* Flatbed */
 
 /* Charmander */
@@ -462,6 +513,7 @@ body {
   top: 69%;
   transition: scale 500ms, background-color 2s;
 }
+
 #bavi .name {
   font-size: 30px;
   position: absolute;
@@ -470,6 +522,7 @@ body {
   color: orange;
   transition: color 2s;
 }
+
 #bavi img {
   height: 100%;
   width: 100%;
@@ -478,6 +531,7 @@ body {
   opacity: 0;
   transition: opacity 800ms ease, transform 800ms ease;
 }
+
 #bavi .songTitle {
   -webkit-text-stroke: 1px rgb(126, 11, 158);
   font-size: 33px;
@@ -488,6 +542,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #bavi .songArtist {
   -webkit-text-stroke: 1px rgb(126, 11, 158);
   font-size: 20px;
@@ -498,6 +553,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #bavi:hover {
   background-color: rgba(12, 4, 4, 0.3);
   background-size: cover;
@@ -507,27 +563,32 @@ body {
   top: 69%;
   scale: 1.1;
 }
-#bavi:hover > .name {
+
+#bavi:hover>.name {
   color: black;
 }
-#bavi:hover > img {
+
+#bavi:hover>img {
   opacity: 1;
   transform: opacity 2s, scale(1.01);
 }
-#bavi:hover > .songTitle {
+
+#bavi:hover>.songTitle {
   opacity: 100%;
   color: white;
   font-size: 33px;
   position: absolute;
   left: 5%;
 }
-#bavi:hover > .songArtist {
+
+#bavi:hover>.songArtist {
   opacity: 100%;
   color: white;
   font-size: 20px;
   position: absolute;
   left: 7%;
 }
+
 /* Charmander */
 
 /* Count Me Out */
@@ -547,6 +608,7 @@ body {
   top: 5%;
   transition: scale 500ms, background-color 2s;
 }
+
 #vavi .name {
   font-size: 30px;
   position: absolute;
@@ -555,6 +617,7 @@ body {
   color: orange;
   transition: color 2s;
 }
+
 #vavi img {
   height: 100%;
   width: 100%;
@@ -563,6 +626,7 @@ body {
   opacity: 0;
   transition: opacity 800ms ease, transform 800ms ease;
 }
+
 #vavi .songTitle {
   -webkit-text-stroke: 0.8px black;
   color: rgb(0, 0, 0);
@@ -574,6 +638,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #vavi .songArtist {
   font-weight: 750;
   -webkit-text-stroke: 0.6px black;
@@ -585,6 +650,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #vavi:hover {
   background-color: rgb(0, 0, 0);
   height: 25%;
@@ -593,25 +659,30 @@ body {
   top: 5%;
   scale: 1.1;
 }
-#vavi:hover > .name {
+
+#vavi:hover>.name {
   color: black;
 }
-#vavi:hover > img {
+
+#vavi:hover>img {
   opacity: 1;
   transform: scale(1.01);
 }
-#vavi:hover > .songTitle {
+
+#vavi:hover>.songTitle {
   opacity: 100%;
   color: rgb(230, 190, 122);
   position: absolute;
   left: 5%;
 }
-#vavi:hover > .songArtist {
+
+#vavi:hover>.songArtist {
   opacity: 100%;
   color: rgb(230, 190, 122);
   position: absolute;
   left: 7%;
 }
+
 /* Count Me Out */
 
 /* All We Got */
@@ -631,6 +702,7 @@ body {
   top: 5%;
   transition: scale 500ms, background-color 2s;
 }
+
 #pavi .name {
   font-size: 30px;
   position: absolute;
@@ -639,6 +711,7 @@ body {
   color: orange;
   transition: color 2s;
 }
+
 #pavi img {
   height: 100%;
   width: 100%;
@@ -647,6 +720,7 @@ body {
   opacity: 0;
   transition: opacity 800ms ease, transform 800ms ease;
 }
+
 #pavi .songTitle {
   color: rgb(0, 0, 0);
   font-weight: 800;
@@ -657,6 +731,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #pavi .songArtist {
   color: rgb(0, 0, 0);
   font-size: 17px;
@@ -667,6 +742,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #pavi:hover {
   background-color: rgb(25, 229, 230);
   height: 25%;
@@ -675,27 +751,32 @@ body {
   top: 5%;
   scale: 1.1;
 }
-#pavi:hover > .name {
+
+#pavi:hover>.name {
   color: black;
 }
-#pavi:hover > img {
+
+#pavi:hover>img {
   opacity: 1;
   transform: scale(1.01);
 }
-#pavi:hover > .songTitle {
+
+#pavi:hover>.songTitle {
   opacity: 100%;
   color: rgb(23, 81, 196);
   font-size: 30px;
   position: absolute;
   left: 2%;
 }
-#pavi:hover > .songArtist {
+
+#pavi:hover>.songArtist {
   opacity: 100%;
   color: rgb(23, 81, 196);
   font-size: 17px;
   position: absolute;
   left: 3%;
 }
+
 /* All We Got */
 
 /* The Blue */
@@ -715,6 +796,7 @@ body {
   top: 37%;
   transition: scale 500ms, background-color 2s;
 }
+
 #havi .name {
   font-size: 30px;
   position: absolute;
@@ -723,6 +805,7 @@ body {
   color: orange;
   transition: color 2s;
 }
+
 #havi img {
   height: 100%;
   width: 100%;
@@ -731,6 +814,7 @@ body {
   opacity: 0;
   transition: opacity 800ms ease, transform 800ms ease;
 }
+
 #havi .songTitle {
   color: rgb(0, 0, 0);
   font-size: 30px;
@@ -741,6 +825,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, right 1.5s, color 3s;
 }
+
 #havi .songArtist {
   color: rgb(0, 0, 0);
   font-size: 17px;
@@ -751,6 +836,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, right 1.5s, color 3s;
 }
+
 #havi:hover {
   background-color: rgb(25, 229, 230);
   height: 25%;
@@ -759,25 +845,30 @@ body {
   top: 37%;
   scale: 1.1;
 }
-#havi:hover > .name {
+
+#havi:hover>.name {
   color: black;
 }
-#havi:hover > img {
+
+#havi:hover>img {
   opacity: 1;
   transform: scale(1.01);
 }
-#havi:hover > .songTitle {
+
+#havi:hover>.songTitle {
   opacity: 100%;
   color: rgb(27, 90, 227);
   position: absolute;
   right: 5%;
 }
-#havi:hover > .songArtist {
+
+#havi:hover>.songArtist {
   opacity: 100%;
   color: rgb(27, 90, 227);
   position: absolute;
   right: 7%;
 }
+
 /* The Blue */
 
 /* Sorry Not Sorry */
@@ -797,6 +888,7 @@ body {
   top: 37%;
   transition: scale 500ms, background-color 2s;
 }
+
 #zavi .name {
   font-size: 30px;
   position: absolute;
@@ -805,6 +897,7 @@ body {
   color: orange;
   transition: color 2s;
 }
+
 #zavi img {
   height: 100%;
   width: 100%;
@@ -813,6 +906,7 @@ body {
   opacity: 0;
   transition: opacity 800ms ease, transform 800ms ease;
 }
+
 #zavi .songTitle {
   color: rgb(62, 32, 32);
   font-size: 30px;
@@ -822,6 +916,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #zavi .songArtist {
   color: rgb(62, 32, 32);
   font-size: 17px;
@@ -831,6 +926,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #zavi:hover {
   background-color: rgb(25, 229, 230);
 
@@ -840,14 +936,17 @@ body {
   top: 37%;
   scale: 1.1;
 }
-#zavi:hover > .name {
+
+#zavi:hover>.name {
   color: black;
 }
-#zavi:hover > img {
+
+#zavi:hover>img {
   opacity: 1;
   transform: scale(1.01);
 }
-#zavi:hover > .songTitle {
+
+#zavi:hover>.songTitle {
   opacity: 100%;
   color: white;
   font-size: 30px;
@@ -855,7 +954,8 @@ body {
   left: 5%;
   top: 60%;
 }
-#zavi:hover > .songArtist {
+
+#zavi:hover>.songArtist {
   opacity: 100%;
   color: white;
   font-size: 17px;
@@ -863,6 +963,7 @@ body {
   left: 7%;
   top: 83%;
 }
+
 /* Sorry Not Sorry */
 
 /* Rice & Gravy */
@@ -882,6 +983,7 @@ body {
   top: 69%;
   transition: scale 500ms, background-color 2s;
 }
+
 #navi .name {
   font-size: 30px;
   position: absolute;
@@ -890,6 +992,7 @@ body {
   color: orange;
   transition: color 2s;
 }
+
 #navi img {
   height: 100%;
   width: 100%;
@@ -898,6 +1001,7 @@ body {
   opacity: 0;
   transition: opacity 800ms ease, transform 800ms ease;
 }
+
 #navi .songTitle {
   color: rgb(25, 229, 230);
   font-size: 30px;
@@ -907,6 +1011,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #navi .songArtist {
   color: rgb(0, 0, 0);
   font-size: 35px;
@@ -917,6 +1022,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #navi:hover {
   background-color: rgb(25, 229, 230);
   height: 25%;
@@ -925,25 +1031,30 @@ body {
   top: 69%;
   scale: 1.1;
 }
-#navi:hover > .name {
+
+#navi:hover>.name {
   color: black;
 }
-#navi:hover > img {
+
+#navi:hover>img {
   opacity: 1;
   transform: scale(1.01);
 }
-#navi:hover > .songTitle {
+
+#navi:hover>.songTitle {
   opacity: 100%;
   color: black;
   position: absolute;
   left: 5%;
 }
-#navi:hover > .songArtist {
+
+#navi:hover>.songArtist {
   opacity: 100%;
-  color: rgb(189,170,41);
+  color: rgb(189, 170, 41);
   position: absolute;
   left: 30%;
 }
+
 /* Rice & Gravy */
 
 /* STATS */
@@ -963,6 +1074,7 @@ body {
   top: 69%;
   transition: scale 500ms, background-color 2s;
 }
+
 #gavi .name {
   font-size: 30px;
   position: absolute;
@@ -971,6 +1083,7 @@ body {
   color: orange;
   transition: color 2s;
 }
+
 #gavi img {
   height: 100%;
   width: 100%;
@@ -979,6 +1092,7 @@ body {
   opacity: 0;
   transition: opacity 800ms ease, transform 800ms ease;
 }
+
 #gavi .songTitle {
   color: rgb(230, 50, 10);
   font-size: 35px;
@@ -990,6 +1104,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #gavi .songArtist {
   color: rgb(230, 50, 10);
   -webkit-text-stroke: 1px rgb(0, 0, 80);
@@ -1001,6 +1116,7 @@ body {
   opacity: 0%;
   transition: opacity 1s, top 1s, left 1.5s, color 3s;
 }
+
 #gavi:hover {
   background-color: rgb(25, 229, 230);
 
@@ -1010,23 +1126,28 @@ body {
   top: 69%;
   scale: 1.1;
 }
-#gavi:hover > .name {
+
+#gavi:hover>.name {
   color: black;
 }
-#gavi:hover > img {
+
+#gavi:hover>img {
   opacity: 1;
   transform: scale(1.01);
 }
-#gavi:hover > .songTitle {
+
+#gavi:hover>.songTitle {
   opacity: 100%;
   color: lightgray;
   position: absolute;
   left: 5%;
 }
-#gavi:hover > .songArtist {
+
+#gavi:hover>.songArtist {
   opacity: 100%;
   color: lightgray;
   position: absolute;
   left: 7%;
 }
+
 /* STATS */

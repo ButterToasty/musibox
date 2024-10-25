@@ -64,52 +64,52 @@ favi.addEventListener('mouseover', function() {
   // reroute
   tavi.style.backgroundColor = "rgb(84,52,10)";
   tavi.style.borderColor = "rgb(84,52,10)"; 
-  tavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  tavi.style.backgroundImage = "url()";
   tavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // lotus
   savi.style.backgroundColor = "rgb(84,52,10)";
   savi.style.borderColor = "rgb(84,52,10)"; 
-  savi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  savi.style.backgroundImage = "url()";
   savi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // flatbed
   mavi.style.backgroundColor = "rgb(84,52,10)";
   mavi.style.borderColor = "rgb(84,52,10)"; 
-  mavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  mavi.style.backgroundImage = "url()";
   mavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // charmander
   bavi.style.backgroundColor = "rgb(84,52,10)";
   bavi.style.borderColor = "rgb(84,52,10)"; 
-  bavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  bavi.style.backgroundImage = "url()";
   bavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // cmOut
   vavi.style.backgroundColor = "rgb(84,52,10)";
   vavi.style.borderColor = "rgb(84,52,10)"; 
-  vavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  vavi.style.backgroundImage = "url()";
   vavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // awGot
   pavi.style.backgroundColor = "rgb(84,52,10)";
   pavi.style.borderColor = "rgb(84,52,10)"; 
-  pavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  pavi.style.backgroundImage = "url()";
   pavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // tBlue
   havi.style.backgroundColor = "rgb(84,52,10)";
   havi.style.borderColor = "rgb(84,52,10)"; 
-  havi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  havi.style.backgroundImage = "url()";
   havi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // sNOTS
   zavi.style.backgroundColor = "rgb(84,52,10)";
   zavi.style.borderColor = "rgb(84,52,10)"; 
-  zavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  zavi.style.backgroundImage = "url()";
   zavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // riceGravy
   navi.style.backgroundColor = "rgb(84,52,10)";
   navi.style.borderColor = "rgb(84,52,10)"; 
-  navi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  navi.style.backgroundImage = "url()";
   navi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // stats
   gavi.style.backgroundColor = "rgb(84,52,10)";
   gavi.style.borderColor = "rgb(84,52,10)"; 
-  gavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  gavi.style.backgroundImage = "url()";
   gavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   
   
@@ -467,7 +467,7 @@ savi.addEventListener('mouseover', function() {
   document.body.style.backgroundImage = "url(' ')";
   document.body.style.transition = "background-image 1.5s, background-color 1.5s";
   // circles
-  favi.style.backgroundImage = "url('https://media1.tenor.com/m/KYz4uDh6KM0AAAAd/dc-the-don-sad-frosty.gif')";
+  favi.style.backgroundImage = "url(')";
   favi.style.backgroundColor = "rgb(255, 255, 230)";
   favi.style.borderColor = "slategray";
   favi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
@@ -479,47 +479,47 @@ savi.addEventListener('mouseover', function() {
     // reroute
   tavi.style.backgroundColor = "rgb(84,52,10)";
   tavi.style.borderColor = "rgb(84,52,10)"; 
-  tavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  tavi.style.backgroundImage = "url()";
   tavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // flatbed
   mavi.style.backgroundColor = "rgb(84,52,10)";
   mavi.style.borderColor = "rgb(84,52,10)"; 
-  mavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  mavi.style.backgroundImage = "url()";
   mavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // charmander
   bavi.style.backgroundColor = "rgb(84,52,10)";
   bavi.style.borderColor = "rgb(84,52,10)"; 
-  bavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  bavi.style.backgroundImage = "url()";
   bavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // cmOut
   vavi.style.backgroundColor = "rgb(84,52,10)";
   vavi.style.borderColor = "rgb(84,52,10)"; 
-  vavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  vavi.style.backgroundImage = "url()";
   vavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // awGot
   pavi.style.backgroundColor = "rgb(84,52,10)";
   pavi.style.borderColor = "rgb(84,52,10)"; 
-  pavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  pavi.style.backgroundImage = "url()";
   pavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // tBlue
   havi.style.backgroundColor = "rgb(84,52,10)";
   havi.style.borderColor = "rgb(84,52,10)"; 
-  havi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  havi.style.backgroundImage = "url()";
   havi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // sNOTS
   zavi.style.backgroundColor = "rgb(84,52,10)";
   zavi.style.borderColor = "rgb(84,52,10)"; 
-  zavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  zavi.style.backgroundImage = "url()";
   zavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // riceGravy
   navi.style.backgroundColor = "rgb(84,52,10)";
   navi.style.borderColor = "rgb(84,52,10)"; 
-  navi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  navi.style.backgroundImage = "url()";
   navi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // stats
   gavi.style.backgroundColor = "rgb(84,52,10)";
   gavi.style.borderColor = "rgb(84,52,10)"; 
-  gavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  gavi.style.backgroundImage = "url()";
   gavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   
 });
@@ -600,63 +600,63 @@ mavi.addEventListener('mouseover', function() {
   mavi.style.scale = "1.1";
   mavi.style.transition = "scale 500ms"
   // Body
-  document.body.style.backgroundColor = "rgb(255,230,230)";
+  document.body.style.backgroundColor = "rgb(0,0,0)";
   document.body.style.backgroundImage = "url(' ')";
   document.body.style.transition = "background-image 1.5s, background-color 1.5s";
   // circles
-  favi.style.backgroundImage = "url('https://media1.tenor.com/m/KYz4uDh6KM0AAAAd/dc-the-don-sad-frosty.gif')";
-  favi.style.backgroundColor = "rgb(255, 255, 230)";
-  favi.style.borderColor = "slategray";
+  favi.style.backgroundImage = "url(')";
+  favi.style.backgroundColor = "rgb(34, 34, 34)";
+  favi.style.borderColor = "rgb(255, 255, 255)";
   favi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // MNMK
   ravi.style.backgroundImage = "url('none')";
-  ravi.style.backgroundColor = "rgb(255, 255, 230)";
-  ravi.style.borderColor = "slategray";
+  ravi.style.backgroundColor = "rgb(34, 34, 34)";
+  ravi.style.borderColor = "rgb(255, 255, 255)";
   ravi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
     // lotus
-  savi.style.backgroundColor = "rgb(84,52,10)";
-  savi.style.borderColor = "rgb(84,52,10)"; 
-  savi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  savi.style.backgroundColor = "rgb(34, 34, 34)";
+  savi.style.borderColor = "rgb(255, 255, 255)"; 
+  savi.style.backgroundImage = "url()";
   savi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // reroute
-  tavi.style.backgroundColor = "rgb(84,52,10)";
-  tavi.style.borderColor = "rgb(84,52,10)"; 
-  tavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  tavi.style.backgroundColor = "rgb(34, 34, 34)";
+  tavi.style.borderColor = "rgb(255, 255, 255)";
+  tavi.style.backgroundImage = "url()";
   tavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // charmander
-  bavi.style.backgroundColor = "rgb(84,52,10)";
-  bavi.style.borderColor = "rgb(84,52,10)"; 
-  bavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  bavi.style.backgroundColor = "rgb(34, 34, 34)";
+  bavi.style.borderColor = "rgb(255, 255, 255)";
+  bavi.style.backgroundImage = "url()";
   bavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // cmOut
-  vavi.style.backgroundColor = "rgb(84,52,10)";
-  vavi.style.borderColor = "rgb(84,52,10)"; 
-  vavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  vavi.style.backgroundColor = "rgb(34, 34, 34)";
+  vavi.style.borderColor = "rgb(255, 255, 255)";
+  vavi.style.backgroundImage = "url()";
   vavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // awGot
-  pavi.style.backgroundColor = "rgb(84,52,10)";
-  pavi.style.borderColor = "rgb(84,52,10)"; 
-  pavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  pavi.style.backgroundColor = "rgb(34, 34, 34)";
+  pavi.style.borderColor = "rgb(255, 255, 255)";
+  pavi.style.backgroundImage = "url()";
   pavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // tBlue
-  havi.style.backgroundColor = "rgb(84,52,10)";
-  havi.style.borderColor = "rgb(84,52,10)"; 
-  havi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  havi.style.backgroundColor = "rgb(34, 34, 34)";
+  havi.style.borderColor = "rgb(255, 255, 255)";
+  havi.style.backgroundImage = "url()";
   havi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // sNOTS
-  zavi.style.backgroundColor = "rgb(84,52,10)";
-  zavi.style.borderColor = "rgb(84,52,10)"; 
-  zavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  zavi.style.backgroundColor = "rgb(34, 34, 34)";
+  zavi.style.borderColor = "rgb(255, 255, 255)";
+  zavi.style.backgroundImage = "url()";
   zavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // riceGravy
-  navi.style.backgroundColor = "rgb(84,52,10)";
-  navi.style.borderColor = "rgb(84,52,10)"; 
-  navi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  navi.style.backgroundColor = "rgb(34, 34, 34)";
+  navi.style.borderColor = "rgb(255, 255, 255)";
+  navi.style.backgroundImage = "url()";
   navi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // stats
-  gavi.style.backgroundColor = "rgb(84,52,10)";
-  gavi.style.borderColor = "rgb(84,52,10)"; 
-  gavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  gavi.style.backgroundColor = "rgb(34, 34, 34)";
+  gavi.style.borderColor = "rgb(255, 255, 255)";
+  gavi.style.backgroundImage = "url()";
   gavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
 });
 }, false);
@@ -739,7 +739,7 @@ bavi.addEventListener('mouseover', function() {
   document.body.style.backgroundImage = "url(' ')";
   document.body.style.transition = "background-image 1.5s, background-color 1.5s";
   // circles
-  favi.style.backgroundImage = "url('https://media1.tenor.com/m/KYz4uDh6KM0AAAAd/dc-the-don-sad-frosty.gif')";
+  favi.style.backgroundImage = "url(')";
   favi.style.backgroundColor = "rgb(255, 255, 230)";
   favi.style.borderColor = "slategray";
   favi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
@@ -751,47 +751,47 @@ bavi.addEventListener('mouseover', function() {
     // lotus
   savi.style.backgroundColor = "rgb(84,52,10)";
   savi.style.borderColor = "rgb(84,52,10)"; 
-  savi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  savi.style.backgroundImage = "url()";
   savi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // flatbed
   mavi.style.backgroundColor = "rgb(84,52,10)";
   mavi.style.borderColor = "rgb(84,52,10)"; 
-  mavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  mavi.style.backgroundImage = "url()";
   mavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // reroute
   tavi.style.backgroundColor = "rgb(84,52,10)";
   tavi.style.borderColor = "rgb(84,52,10)"; 
-  tavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  tavi.style.backgroundImage = "url()";
   tavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // cmOut
   vavi.style.backgroundColor = "rgb(84,52,10)";
   vavi.style.borderColor = "rgb(84,52,10)"; 
-  vavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  vavi.style.backgroundImage = "url()";
   vavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // awGot
   pavi.style.backgroundColor = "rgb(84,52,10)";
   pavi.style.borderColor = "rgb(84,52,10)"; 
-  pavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  pavi.style.backgroundImage = "url()";
   pavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // tBlue
   havi.style.backgroundColor = "rgb(84,52,10)";
   havi.style.borderColor = "rgb(84,52,10)"; 
-  havi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  havi.style.backgroundImage = "url()";
   havi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // sNOTS
   zavi.style.backgroundColor = "rgb(84,52,10)";
   zavi.style.borderColor = "rgb(84,52,10)"; 
-  zavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  zavi.style.backgroundImage = "url()";
   zavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // riceGravy
   navi.style.backgroundColor = "rgb(84,52,10)";
   navi.style.borderColor = "rgb(84,52,10)"; 
-  navi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  navi.style.backgroundImage = "url()";
   navi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // stats
   gavi.style.backgroundColor = "rgb(84,52,10)";
   gavi.style.borderColor = "rgb(84,52,10)"; 
-  gavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  gavi.style.backgroundImage = "url()";
   gavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
 });
 }, false);
@@ -873,7 +873,7 @@ vavi.addEventListener('mouseover', function() {
   document.body.style.backgroundImage = "url(' ')";
   document.body.style.transition = "background-image 1.5s, background-color 1.5s";
   // circles
-  favi.style.backgroundImage = "url('https://media1.tenor.com/m/KYz4uDh6KM0AAAAd/dc-the-don-sad-frosty.gif')";
+  favi.style.backgroundImage = "url(')";
   favi.style.backgroundColor = "rgb(255, 255, 230)";
   favi.style.borderColor = "slategray";
   favi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
@@ -885,47 +885,47 @@ vavi.addEventListener('mouseover', function() {
     // lotus
   savi.style.backgroundColor = "rgb(84,52,10)";
   savi.style.borderColor = "rgb(84,52,10)"; 
-  savi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  savi.style.backgroundImage = "url()";
   savi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // flatbed
   mavi.style.backgroundColor = "rgb(84,52,10)";
   mavi.style.borderColor = "rgb(84,52,10)"; 
-  mavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  mavi.style.backgroundImage = "url()";
   mavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // charmander
   bavi.style.backgroundColor = "rgb(84,52,10)";
   bavi.style.borderColor = "rgb(84,52,10)"; 
-  bavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  bavi.style.backgroundImage = "url()";
   bavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // reroute
   tavi.style.backgroundColor = "rgb(84,52,10)";
   tavi.style.borderColor = "rgb(84,52,10)"; 
-  tavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  tavi.style.backgroundImage = "url()";
   tavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // awGot
   pavi.style.backgroundColor = "rgb(84,52,10)";
   pavi.style.borderColor = "rgb(84,52,10)"; 
-  pavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  pavi.style.backgroundImage = "url()";
   pavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // tBlue
   havi.style.backgroundColor = "rgb(84,52,10)";
   havi.style.borderColor = "rgb(84,52,10)"; 
-  havi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  havi.style.backgroundImage = "url()";
   havi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // sNOTS
   zavi.style.backgroundColor = "rgb(84,52,10)";
   zavi.style.borderColor = "rgb(84,52,10)"; 
-  zavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  zavi.style.backgroundImage = "url()";
   zavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // riceGravy
   navi.style.backgroundColor = "rgb(84,52,10)";
   navi.style.borderColor = "rgb(84,52,10)"; 
-  navi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  navi.style.backgroundImage = "url()";
   navi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // stats
   gavi.style.backgroundColor = "rgb(84,52,10)";
   gavi.style.borderColor = "rgb(84,52,10)"; 
-  gavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  gavi.style.backgroundImage = "url()";
   gavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
 });
 }, false);
@@ -1008,7 +1008,7 @@ pavi.addEventListener('mouseover', function() {
   document.body.style.backgroundImage = "url(' ')";
   document.body.style.transition = "background-image 1.5s, background-color 1.5s";
   // circles
-  favi.style.backgroundImage = "url('https://media1.tenor.com/m/KYz4uDh6KM0AAAAd/dc-the-don-sad-frosty.gif')";
+  favi.style.backgroundImage = "url(')";
   favi.style.backgroundColor = "rgb(255, 255, 230)";
   favi.style.borderColor = "slategray";
   favi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
@@ -1020,47 +1020,47 @@ pavi.addEventListener('mouseover', function() {
     // lotus
   savi.style.backgroundColor = "rgb(84,52,10)";
   savi.style.borderColor = "rgb(84,52,10)"; 
-  savi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  savi.style.backgroundImage = "url()";
   savi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // flatbed
   mavi.style.backgroundColor = "rgb(84,52,10)";
   mavi.style.borderColor = "rgb(84,52,10)"; 
-  mavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  mavi.style.backgroundImage = "url()";
   mavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // charmander
   bavi.style.backgroundColor = "rgb(84,52,10)";
   bavi.style.borderColor = "rgb(84,52,10)"; 
-  bavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  bavi.style.backgroundImage = "url()";
   bavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // cmOut
   vavi.style.backgroundColor = "rgb(84,52,10)";
   vavi.style.borderColor = "rgb(84,52,10)"; 
-  vavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  vavi.style.backgroundImage = "url()";
   vavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // reroute
   tavi.style.backgroundColor = "rgb(84,52,10)";
   tavi.style.borderColor = "rgb(84,52,10)"; 
-  tavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  tavi.style.backgroundImage = "url()";
   tavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // tBlue
   havi.style.backgroundColor = "rgb(84,52,10)";
   havi.style.borderColor = "rgb(84,52,10)"; 
-  havi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  havi.style.backgroundImage = "url()";
   havi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // sNOTS
   zavi.style.backgroundColor = "rgb(84,52,10)";
   zavi.style.borderColor = "rgb(84,52,10)"; 
-  zavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  zavi.style.backgroundImage = "url()";
   zavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // riceGravy
   navi.style.backgroundColor = "rgb(84,52,10)";
   navi.style.borderColor = "rgb(84,52,10)"; 
-  navi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  navi.style.backgroundImage = "url()";
   navi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // stats
   gavi.style.backgroundColor = "rgb(84,52,10)";
   gavi.style.borderColor = "rgb(84,52,10)"; 
-  gavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  gavi.style.backgroundImage = "url()";
   gavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
 });
 }, false);
@@ -1143,7 +1143,7 @@ havi.addEventListener('mouseover', function() {
   document.body.style.backgroundImage = "url(' ')";
   document.body.style.transition = "background-image 1.5s, background-color 1.5s";
   // circles
-  favi.style.backgroundImage = "url('https://media1.tenor.com/m/KYz4uDh6KM0AAAAd/dc-the-don-sad-frosty.gif')";
+  favi.style.backgroundImage = "url(')";
   favi.style.backgroundColor = "rgb(255, 255, 230)";
   favi.style.borderColor = "slategray";
   favi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
@@ -1155,47 +1155,47 @@ havi.addEventListener('mouseover', function() {
     // lotus
   savi.style.backgroundColor = "rgb(84,52,10)";
   savi.style.borderColor = "rgb(84,52,10)"; 
-  savi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  savi.style.backgroundImage = "url()";
   savi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // flatbed
   mavi.style.backgroundColor = "rgb(84,52,10)";
   mavi.style.borderColor = "rgb(84,52,10)"; 
-  mavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  mavi.style.backgroundImage = "url()";
   mavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // charmander
   bavi.style.backgroundColor = "rgb(84,52,10)";
   bavi.style.borderColor = "rgb(84,52,10)"; 
-  bavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  bavi.style.backgroundImage = "url()";
   bavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // cmOut
   vavi.style.backgroundColor = "rgb(84,52,10)";
   vavi.style.borderColor = "rgb(84,52,10)"; 
-  vavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  vavi.style.backgroundImage = "url()";
   vavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // awGot
   pavi.style.backgroundColor = "rgb(84,52,10)";
   pavi.style.borderColor = "rgb(84,52,10)"; 
-  pavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  pavi.style.backgroundImage = "url()";
   pavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // reroute
   tavi.style.backgroundColor = "rgb(84,52,10)";
   tavi.style.borderColor = "rgb(84,52,10)"; 
-  tavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  tavi.style.backgroundImage = "url()";
   tavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // sNOTS
   zavi.style.backgroundColor = "rgb(84,52,10)";
   zavi.style.borderColor = "rgb(84,52,10)"; 
-  zavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  zavi.style.backgroundImage = "url()";
   zavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // riceGravy
   navi.style.backgroundColor = "rgb(84,52,10)";
   navi.style.borderColor = "rgb(84,52,10)"; 
-  navi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  navi.style.backgroundImage = "url()";
   navi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // stats
   gavi.style.backgroundColor = "rgb(84,52,10)";
   gavi.style.borderColor = "rgb(84,52,10)"; 
-  gavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  gavi.style.backgroundImage = "url()";
   gavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
 });
 }, false);
@@ -1278,7 +1278,7 @@ zavi.addEventListener('mouseover', function() {
   document.body.style.backgroundImage = "url(' ')";
   document.body.style.transition = "background-image 1.5s, background-color 1.5s";
   // circles
-  favi.style.backgroundImage = "url('https://media1.tenor.com/m/KYz4uDh6KM0AAAAd/dc-the-don-sad-frosty.gif')";
+  favi.style.backgroundImage = "url(')";
   favi.style.backgroundColor = "rgb(255, 255, 230)";
   favi.style.borderColor = "slategray";
   favi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
@@ -1290,47 +1290,47 @@ zavi.addEventListener('mouseover', function() {
     // lotus
   savi.style.backgroundColor = "rgb(84,52,10)";
   savi.style.borderColor = "rgb(84,52,10)"; 
-  savi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  savi.style.backgroundImage = "url()";
   savi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // flatbed
   mavi.style.backgroundColor = "rgb(84,52,10)";
   mavi.style.borderColor = "rgb(84,52,10)"; 
-  mavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  mavi.style.backgroundImage = "url()";
   mavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // charmander
   bavi.style.backgroundColor = "rgb(84,52,10)";
   bavi.style.borderColor = "rgb(84,52,10)"; 
-  bavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  bavi.style.backgroundImage = "url()";
   bavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // cmOut
   vavi.style.backgroundColor = "rgb(84,52,10)";
   vavi.style.borderColor = "rgb(84,52,10)"; 
-  vavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  vavi.style.backgroundImage = "url()";
   vavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // awGot
   pavi.style.backgroundColor = "rgb(84,52,10)";
   pavi.style.borderColor = "rgb(84,52,10)"; 
-  pavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  pavi.style.backgroundImage = "url()";
   pavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // tBlue
   havi.style.backgroundColor = "rgb(84,52,10)";
   havi.style.borderColor = "rgb(84,52,10)"; 
-  havi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  havi.style.backgroundImage = "url()";
   havi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // reroute
   tavi.style.backgroundColor = "rgb(84,52,10)";
   tavi.style.borderColor = "rgb(84,52,10)"; 
-  tavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  tavi.style.backgroundImage = "url()";
   tavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // riceGravy
   navi.style.backgroundColor = "rgb(84,52,10)";
   navi.style.borderColor = "rgb(84,52,10)"; 
-  navi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  navi.style.backgroundImage = "url()";
   navi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // stats
   gavi.style.backgroundColor = "rgb(84,52,10)";
   gavi.style.borderColor = "rgb(84,52,10)"; 
-  gavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  gavi.style.backgroundImage = "url()";
   gavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
 });
 }, false);
@@ -1413,7 +1413,7 @@ navi.addEventListener('mouseover', function() {
   document.body.style.backgroundImage = "url(' ')";
   document.body.style.transition = "background-image 1.5s, background-color 1.5s";
   // circles
-  favi.style.backgroundImage = "url('https://media1.tenor.com/m/KYz4uDh6KM0AAAAd/dc-the-don-sad-frosty.gif')";
+  favi.style.backgroundImage = "url(')";
   favi.style.backgroundColor = "rgb(255, 255, 230)";
   favi.style.borderColor = "slategray";
   favi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
@@ -1425,47 +1425,47 @@ navi.addEventListener('mouseover', function() {
     // lotus
   savi.style.backgroundColor = "rgb(84,52,10)";
   savi.style.borderColor = "rgb(84,52,10)"; 
-  savi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  savi.style.backgroundImage = "url()";
   savi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // flatbed
   mavi.style.backgroundColor = "rgb(84,52,10)";
   mavi.style.borderColor = "rgb(84,52,10)"; 
-  mavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  mavi.style.backgroundImage = "url()";
   mavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // charmander
   bavi.style.backgroundColor = "rgb(84,52,10)";
   bavi.style.borderColor = "rgb(84,52,10)"; 
-  bavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  bavi.style.backgroundImage = "url()";
   bavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // cmOut
   vavi.style.backgroundColor = "rgb(84,52,10)";
   vavi.style.borderColor = "rgb(84,52,10)"; 
-  vavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  vavi.style.backgroundImage = "url()";
   vavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // awGot
   pavi.style.backgroundColor = "rgb(84,52,10)";
   pavi.style.borderColor = "rgb(84,52,10)"; 
-  pavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  pavi.style.backgroundImage = "url()";
   pavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // tBlue
   havi.style.backgroundColor = "rgb(84,52,10)";
   havi.style.borderColor = "rgb(84,52,10)"; 
-  havi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  havi.style.backgroundImage = "url()";
   havi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // sNOTS
   zavi.style.backgroundColor = "rgb(84,52,10)";
   zavi.style.borderColor = "rgb(84,52,10)"; 
-  zavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  zavi.style.backgroundImage = "url()";
   zavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // reroute
   tavi.style.backgroundColor = "rgb(84,52,10)";
   tavi.style.borderColor = "rgb(84,52,10)"; 
-  tavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  tavi.style.backgroundImage = "url()";
   tavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // stats
   gavi.style.backgroundColor = "rgb(84,52,10)";
   gavi.style.borderColor = "rgb(84,52,10)"; 
-  gavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  gavi.style.backgroundImage = "url()";
   gavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
 });
 }, false);
@@ -1548,7 +1548,7 @@ gavi.addEventListener('mouseover', function() {
   document.body.style.backgroundImage = "url(' ')";
   document.body.style.transition = "background-image 1.5s, background-color 1.5s";
   // circles
-  favi.style.backgroundImage = "url('https://media1.tenor.com/m/KYz4uDh6KM0AAAAd/dc-the-don-sad-frosty.gif')";
+  favi.style.backgroundImage = "url(')";
   favi.style.backgroundColor = "rgb(255, 255, 230)";
   favi.style.borderColor = "slategray";
   favi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
@@ -1560,47 +1560,47 @@ gavi.addEventListener('mouseover', function() {
     // lotus
   savi.style.backgroundColor = "rgb(84,52,10)";
   savi.style.borderColor = "rgb(84,52,10)"; 
-  savi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  savi.style.backgroundImage = "url()";
   savi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // flatbed
   mavi.style.backgroundColor = "rgb(84,52,10)";
   mavi.style.borderColor = "rgb(84,52,10)"; 
-  mavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  mavi.style.backgroundImage = "url()";
   mavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // charmander
   bavi.style.backgroundColor = "rgb(84,52,10)";
   bavi.style.borderColor = "rgb(84,52,10)"; 
-  bavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  bavi.style.backgroundImage = "url()";
   bavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // cmOut
   vavi.style.backgroundColor = "rgb(84,52,10)";
   vavi.style.borderColor = "rgb(84,52,10)"; 
-  vavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  vavi.style.backgroundImage = "url()";
   vavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // awGot
   pavi.style.backgroundColor = "rgb(84,52,10)";
   pavi.style.borderColor = "rgb(84,52,10)"; 
-  pavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  pavi.style.backgroundImage = "url()";
   pavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // tBlue
   havi.style.backgroundColor = "rgb(84,52,10)";
   havi.style.borderColor = "rgb(84,52,10)"; 
-  havi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  havi.style.backgroundImage = "url()";
   havi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // sNOTS
   zavi.style.backgroundColor = "rgb(84,52,10)";
   zavi.style.borderColor = "rgb(84,52,10)"; 
-  zavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  zavi.style.backgroundImage = "url()";
   zavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // riceGravy
   navi.style.backgroundColor = "rgb(84,52,10)";
   navi.style.borderColor = "rgb(84,52,10)"; 
-  navi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  navi.style.backgroundImage = "url()";
   navi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
   // reroute
   tavi.style.backgroundColor = "rgb(84,52,10)";
   tavi.style.borderColor = "rgb(84,52,10)"; 
-  tavi.style.backgroundImage = "url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRseTJ2MmVvZGRucHFhYm5lcjZpdWo0OW5rNHVrdjl6Y3Q4OHdlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DshZcMyZzsjFOr3v6N/giphy.gif')";
+  tavi.style.backgroundImage = "url()";
   tavi.style.transition = "border-color 1s, background-color 1s, background-image 500ms";
 });
 }, false);
